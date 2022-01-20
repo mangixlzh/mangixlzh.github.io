@@ -1,0 +1,2 @@
+# mangixlzh.github.io
+blog
