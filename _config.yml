@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Arboreal Dwelling"
+title                    : "Arboreal Dwelling - Zihao Lin" # site title
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zihao Lin"
@@ -82,7 +82,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "WERi4eMHcZ3BZz2XuqMInTcWTE55RX1GYSMFZOzOSgc"
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
