@@ -2,12 +2,10 @@
 main:
   - title: "Home"
     url: /
+  - title: "About"
+    url: /aboutme/
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "Blog"
-    url: /blog/
   - title: "CV"
     url: /cv/
 
