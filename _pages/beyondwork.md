@@ -31,9 +31,15 @@ Like my taste of books, I prefer video games that are short to play while highly
 
 Moments of Escape:
 
-- Faster than Light
+- FTL:Faster Than Light
 - Into the Breach
 - Slay the Spire
+- Dota 2(Mangix is my favorite)
+    - A slam of Mangix' mighty keg starts the festivities.
+    - The Order of the Oyo's solution to all problems - another round!
+    - When Mangix won his title as the Brewmaster of the Order of Oyo, he also claimed his place in the mastery of inebriation.
+    - Mangix doesn't hold to it by rule, but he vaguely recalls an old master musing that, if one could manage, scaring up a companion was always preferable to drinking alone.
+    - It isn't clear whether Mangix is consciously aware of his potent bond with nature, as it often occurs in the midst of a drunken stupor.
 
 Exception : Journeys of Immersion
 
