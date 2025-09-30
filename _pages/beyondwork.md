@@ -37,8 +37,11 @@ Moments of Escape:
 - FTL:Faster Than Light
 ![FTL]({{ "/assets/images/ftl.webp" | relative_url }})
 - Into the Breach
+![ITB]({{ "/assets/images/itb.jpg" | relative_url }})
 - Slay the Spire
+![SLS]({{ "/assets/images/sls.jpg" | relative_url }})
 - Dota 2(Mangix is my favorite)
+![DOTA]({{ "/assets/images/dota2.jpg" | relative_url }})
     - A slam of Mangix' mighty keg starts the festivities.
     - The Order of the Oyo's solution to all problems - another round!
     - When Mangix won his title as the Brewmaster of the Order of Oyo, he also claimed his place in the mastery of inebriation.
