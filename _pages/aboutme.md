@@ -1,6 +1,7 @@
 ---
 permalink: /aboutme/
 title: "About"
+layout: single
 toc: true
 ---
 

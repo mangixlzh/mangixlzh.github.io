@@ -1,6 +1,7 @@
 ---
 permalink: /beyondwork/
 title: "Beyond Work"
+layout: single
 toc: true
 ---
 
@@ -11,7 +12,9 @@ I have a particular love for short stories.(In other words, I have no patience f
 Mind Snacks:
 
 **Italo Calvino**: *Our Ancestors Trilogy* (*The Cloven Viscount*, *The Baron in the Trees*, *The Nonexistent Knight*)
+
 **Jorge Luis Borges**: *The Aleph*, *The Man on the Corner of the Rose Street*
+
 **Juan Rulfo**: *Pedro Páramo*
 
 
