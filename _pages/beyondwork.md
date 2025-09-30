@@ -9,11 +9,11 @@ toc: true
 
 I have a particular love for short stories.(In other words, I have no patience for "Tome".`:)`)
 
-Mind Snacks:
+### Mind Snacks:
 
 **Italo Calvino**: *Our Ancestors Trilogy* (*The Cloven Viscount*, *The Baron in the Trees*, *The Nonexistent Knight*)
 
-**Jorge Luis Borges**: *The Aleph*, *The Man on the Corner of the Rose Street*
+**Jorge Luis Borges**: *The Aleph*, *Man on Pink Corner*
 
 **Juan Rulfo**: *Pedro Páramo*
 
@@ -35,6 +35,7 @@ Like my taste of books, I prefer video games that are short to play while highly
 Moments of Escape:
 
 - FTL:Faster Than Light
+![FTL]({{ "/assets/images/ftl.webp" | relative_url }})
 - Into the Breach
 - Slay the Spire
 - Dota 2(Mangix is my favorite)
