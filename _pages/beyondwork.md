@@ -24,9 +24,13 @@ I have a particular love for short stories.(In other words, I have no patience f
 I prefer Euro-style board games over American-style ones.
 
 - Forest Shuffle
+![FS]({{ "/assets/images/fs.jpg" | relative_url }})
 - Wingspan
+![WS]({{ "/assets/images/wingspan.jpg" | relative_url }})
 - Agricola
-- The Gaia Project
+![AG]({{ "/assets/images/agricola.jpg" | relative_url }})
+- Gaia Project
+![GP]({{ "/assets/images/gaia.jpg" | relative_url }})
   
 ## Video Games
 
@@ -51,3 +55,4 @@ Moments of Escape:
 Exception : Journeys of Immersion
 
 - Divinity: Original Sin 2
+![DOS]({{ "/assets/images/dos.jpg" | relative_url }})
