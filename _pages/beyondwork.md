@@ -56,3 +56,16 @@ Exception : Journeys of Immersion
 
 - Divinity: Original Sin 2
 ![DOS]({{ "/assets/images/dos.jpg" | relative_url }})
+- Baldur's Gate 3
+    - The Game is sponsored by my friends Chen Hang, Han Yiming and Xiang yangyang.
+    - I play as druid in this game -- almost like playing Mangix, Black Arachnia and Banehallow all at once.
+![BG3]({{ "/assets/images/bg3.jpg" | relative_url }})
+
+## Anime & Manga
+
+- Hunter X Hunter
+![HXH]({{ "/assets/images/hxh.jpg" | relative_url }})
+- Gintama
+![GTM]({{ "/assets/images/gtm.jpg" | relative_url }})
+- Dungeon Meshi
+![dgm]({{ "/assets/images/dgm.jpg" | relative_url }})
