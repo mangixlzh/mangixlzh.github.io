@@ -44,6 +44,8 @@ Moments of Escape:
 ![ITB]({{ "/assets/images/itb.jpg" | relative_url }})
 - Slay the Spire
 ![SLS]({{ "/assets/images/sls.jpg" | relative_url }})
+- Dave the Diver
+![DTD]({{ "/assets/images/dtd.jpg" | relative_url }})
 - Dota 2(Mangix is my favorite)
 ![DOTA]({{ "/assets/images/dota2.jpg" | relative_url }})
     - A slam of Mangix' mighty keg starts the festivities.
