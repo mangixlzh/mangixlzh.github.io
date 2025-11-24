@@ -119,9 +119,9 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "191850100@smail.nju.edu.cn"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "191850100@smail.nju.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
