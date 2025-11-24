@@ -63,6 +63,14 @@ Exception : Journeys of Immersion
     - I play as druid in this game -- almost like playing Mangix, Black Arachnia and Banehallow all at once.
 ![BG3]({{ "/assets/images/bg3.jpg" | relative_url }})
 
+I mainly play on PC, but my close brother Han Yiming has bought me a Switch. I owe great thanks to him.
+
+Games I enjoyed are:
+
+- Pokemon Violet
+- Mario Kart 8
+- Animal Crossing
+
 ## Anime & Manga
 
 - Hunter X Hunter
